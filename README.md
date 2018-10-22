@@ -1,6 +1,6 @@
 # Introduction to Python
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/graeme-a-stewart/python-introduction/master?filepath=presentation-insights.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.physik.uni-muenchen.de%2FMartin.Ritter%2Fpython-intro/6b2e01e55667d833e0028245e333144536d43e4b?filepath=presentation.ipynb)
 
 This is a 120 minute lecture that introduces Python. There are
 no assumptions made at all about prior knowledge of Python, though
