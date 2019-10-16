@@ -1,6 +1,6 @@
 # Introduction to Python
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/daritter/python-introduction/master?filepath=presentation.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nikoladze/python-introduction/master?filepath=presentation.ipynb)
 
 This is a 120 minute lecture that introduces Python. There are
 no assumptions made at all about prior knowledge of Python, though
