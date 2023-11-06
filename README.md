@@ -1,6 +1,6 @@
 # Introduction to Python
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nikoladze/python-introduction/master?filepath=presentation.ipynb)
+[Run in your browser with JupyterLite](https://nikoladze.github.io/python-introduction/lab/index.html?path=presentation.ipynb)
 
 This is a 120 minute lecture that introduces Python. There are
 no assumptions made at all about prior knowledge of Python, though
@@ -11,7 +11,7 @@ returns to some slightly more advanced topics to round out
 students' knowledge. There should be enough content that people
 who do know basic Python will learn from it.
 
-The lecture is written as a Jupyter notebook, using the popular
-[RISE](https://github.com/damianavila/RISE) extension to present
-the material as a slideshow. It can be launched using only a web
-browser by clicking the "launch binder" button above.
+The lecture is written as a Jupyter notebook and the popular
+[RISE](https://github.com/damianavila/RISE) or [jupyterlab-deck](https://jupyterlab-deck.readthedocs.io/en/stable/index.html)
+extensions can be used to present the material as a slideshow.
+It can be launched using only a web browser by clicking the link above.
